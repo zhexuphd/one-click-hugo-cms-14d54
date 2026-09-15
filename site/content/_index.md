@@ -3,7 +3,7 @@ title: "Where little minds feel at home"
 subtitle: A bilingual Montessori community built around care, independence, respect, and the joy of discovering the world
 image: /img/home.JPG
 blurb:
-    heading: Why Kaldi?
+    heading: Why Mouse?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
