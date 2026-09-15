@@ -4,9 +4,9 @@ subtitle: A bilingual Montessori community built around care, independence, resp
 image: /img/home.JPG
 blurb:
     heading: Why Mouse?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "MOUSE is a small bilingual Montessori community where every child is seen, respected, and supported. With just 19 children, we create a warm and caring environment where children can feel safe to explore, learn at their own pace, and grow into confident and independent individuals. Teachers and parents work closely together to make MOUSE a community where children truly feel at home."
 intro:
-    heading: "What we offer"
+    heading: "Our concept"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
